@@ -1,2 +1,2 @@
 # tensor-gallery
-Algorithms implement with tensorflow, keep add new stuff.
+Algorithms implement with tensorflow, keep adding new stuff.
