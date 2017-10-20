@@ -9,7 +9,7 @@ Try my best to make code clean and read friendly.
 #### Deep Reinforcement Leanrning
 #### Applications 
 
-- Image style transfer
+- [Image style transfer](https://github.com/JasonHanG/tensor-gallery/tree/master/style-transfer)
 - Image generation
 - Text generation
 - OpenAI Gym
