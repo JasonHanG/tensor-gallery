@@ -24,10 +24,10 @@ Try my best to make code clean and read friendly.
 
 #### Applications 
 
-- [Image style transfer](https://github.com/JasonHanG/tensor-gallery/tree/master/style-transfer)
+- [Image Style Transfer](https://github.com/JasonHanG/tensor-gallery/tree/master/style-transfer)
 - Image generation
 - Text generation
 - OpenAI Gym
 - [Model Fine-tuning VGG](https://github.com/JasonHanG/tensor-gallery/tree/master/vgg16-keras)
-- [Model Fine-tuning Alex Net](https://github.com/JasonHanG/tensor-gallery/tree/master/alexNet-finetune)
+- [Model Fine-tuning AlexNet](https://github.com/JasonHanG/tensor-gallery/tree/master/alexNet-finetune)
 
