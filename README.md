@@ -1,11 +1,11 @@
-# tensor-gallery
-Collection of algorithms and net architecture with tensorflow (some use wrapper keras).
+# Tensor-Gallery
+Collection of algorithms and net architecture with tensorflow (some use wrappers like keras).  
 Try my best to make code clean and read friendly.
 
 #### Tensorflow And Neural Network Basic
 - Basic Operation
 #### Convolutional Neural Network
-- [Alex Net](https://github.com/JasonHanG/tensor-gallery/tree/master/alexNet-finetune)
+- [AlexNet](https://github.com/JasonHanG/tensor-gallery/tree/master/alexNet-finetune)
 - [VGG Net](https://github.com/JasonHanG/tensor-gallery/tree/master/vgg16-keras)
 - ResNet
 - DenseNet
