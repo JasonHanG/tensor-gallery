@@ -1,5 +1,5 @@
 # tensor-gallery
-Collection of algorithms and net architecture with tensorflow.
+Collection of algorithms and net architecture with tensorflow (some use wrapper keras).
 Try my best to make code clean and read friendly.
 
 #### Tensorflow And Neural Network Basic
