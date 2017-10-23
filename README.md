@@ -3,7 +3,7 @@ Collection of algorithms and net architecture with tensorflow (some use wrapper 
 Try my best to make code clean and read friendly.
 
 #### Tensorflow And Neural Network Basic
-- 
+- Basic Operation
 #### Convolutional Neural Network
 - Alex Net
 - VGG Net
