@@ -1,4 +1,4 @@
-### Fine turn vgg16 model 
+### Fine tune vgg16 model 
 To do simple job as classify cat and dog.
 Originally written by Jeremy Howard for course in fast.ai.
 
