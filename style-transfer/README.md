@@ -9,3 +9,9 @@ Chip Huyen (huyenn@stanford.edu) for Stanford course.
 
 #### 2.Denpendencies
 - Tensorflow 1.3.0-rc2
+
+#### 3.How-tos
+- Put your style image in "styles" sub-dictionary.
+- Put your content image in "content" sub-dictionary.
+- Run script style_transfer.py
+- Result will appear in "output" sub-dictionary after a while.
