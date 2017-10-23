@@ -5,7 +5,7 @@ Try my best to make code clean and read friendly.
 #### Tensorflow And Neural Network Basic
 - Basic Operation
 #### Convolutional Neural Network
-- Alex Net
+- [Alex Net](https://github.com/JasonHanG/tensor-gallery/tree/master/alexNet-finetune)
 - [VGG Net](https://github.com/JasonHanG/tensor-gallery/tree/master/vgg16-keras)
 - ResNet
 - DenseNet
@@ -28,5 +28,6 @@ Try my best to make code clean and read friendly.
 - Image generation
 - Text generation
 - OpenAI Gym
-- [Model Fine-tuning](https://github.com/JasonHanG/tensor-gallery/tree/master/vgg16-keras)
+- [Model Fine-tuning VGG](https://github.com/JasonHanG/tensor-gallery/tree/master/vgg16-keras)
+- [Model Fine-tuning Alex Net](https://github.com/JasonHanG/tensor-gallery/tree/master/alexNet-finetune)
 
