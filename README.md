@@ -6,7 +6,7 @@ Try my best to make code clean and read friendly.
 - Basic Operation
 #### Convolutional Neural Network
 - Alex Net
-- VGG Net
+- [VGG Net](https://github.com/JasonHanG/tensor-gallery/tree/master/vgg16-keras)
 - ResNet
 - DenseNet
 #### Recurrent Neural Network
@@ -28,5 +28,5 @@ Try my best to make code clean and read friendly.
 - Image generation
 - Text generation
 - OpenAI Gym
-- Model Fine-tuning
+- [Model Fine-tuning](https://github.com/JasonHanG/tensor-gallery/tree/master/vgg16-keras)
 
