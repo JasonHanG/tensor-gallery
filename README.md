@@ -10,7 +10,7 @@ Try my best to make code clean and read friendly.
 - ResNet
 - DenseNet
 #### Recurrent Neural Network
-- LSTM
+- [LSTM](https://github.com/JasonHanG/tensor-gallery/tree/master/char-rnn)
 - Attention LSTM
 
 #### Generative Adversarial Networks
@@ -26,7 +26,7 @@ Try my best to make code clean and read friendly.
 
 - [Image Style Transfer](https://github.com/JasonHanG/tensor-gallery/tree/master/style-transfer)
 - Image generation
-- Text generation
+- [Text generation](https://github.com/JasonHanG/tensor-gallery/tree/master/char-rnn)
 - OpenAI Gym
 - [Model Fine-tuning VGG](https://github.com/JasonHanG/tensor-gallery/tree/master/vgg16-keras)
 - [Model Fine-tuning AlexNet](https://github.com/JasonHanG/tensor-gallery/tree/master/alexNet-finetune)
