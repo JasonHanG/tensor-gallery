@@ -3,7 +3,7 @@ Collection of algorithms and net architecture with tensorflow (some use wrappers
 Try my best to make code clean and read friendly.
 
 #### Tensorflow And Neural Network Basic
-- Basic Operation
+- [Basic Operation](https://github.com/JasonHanG/tensor-gallery/tree/master/basic-operation)
 #### Convolutional Neural Network
 - [AlexNet](https://github.com/JasonHanG/tensor-gallery/tree/master/alexNet-finetune)
 - [VGG Net](https://github.com/JasonHanG/tensor-gallery/tree/master/vgg16-keras)
