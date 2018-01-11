@@ -30,5 +30,5 @@ Try my best to make code clean and read friendly.
 - OpenAI Gym
 - [Model Fine-tuning VGG](https://github.com/JasonHanG/tensor-gallery/tree/master/vgg16-keras)
 - [Model Fine-tuning AlexNet](https://github.com/JasonHanG/tensor-gallery/tree/master/alexNet-finetune)
-- [Text Classification]()
+- [Text Classification](https://github.com/JasonHanG/tensor-gallery/tree/master/cnn-text-classification)
 
